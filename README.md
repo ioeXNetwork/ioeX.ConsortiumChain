@@ -1,4 +1,4 @@
-# ioeX.SideChain
+# ioeX.ConsorttiumChain
 
 ## Summary
 ioeX leveraged Elastos functions to create its owned features and also business cases.
